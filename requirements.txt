@@ -7,4 +7,4 @@ langchain
 huggingface
 numpy 
 tensorflow-intel 
-.e .
+-e .
