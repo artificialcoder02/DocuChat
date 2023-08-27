@@ -1,0 +1,10 @@
+transformers 
+einops 
+accelerate 
+langchain 
+bitsandbytes
+langchain
+huggingface
+numpy 
+tensorflow-intel 
+.e .
