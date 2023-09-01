@@ -30,10 +30,10 @@ cache = false
 
 [UI]
 # Name of the app and chatbot.
-name = "Chatbot"
+name = "DOCUCHAT"
 
 # Description of the app and chatbot. This is used for HTML tags.
-# description = ""
+# description = "A chat application that allows users to upload PDFs and CSV files and interact with the contents of the documents using large language models (LLMs) through a conversational interface"
 
 # The default value for the expand messages settings.
 default_expand_messages = false
@@ -42,7 +42,7 @@ default_expand_messages = false
 hide_cot = false
 
 # Link to your github repo. This will add a github button in the UI's header.
-# github = ""
+# github = "https://github.com/artificialcoder02/DocuChat"
 
 # Override default MUI light theme. (Check theme.ts)
 [UI.theme.light]
